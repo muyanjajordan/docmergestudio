@@ -1,0 +1,6 @@
+{
+  "name": "DocuMerge Studio",
+  "description": "Professional PDF merger and visual drag-and-drop page reorganizer. Merge files, reorder pages, rotate, and export with zero upload lag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
